@@ -1,7 +1,7 @@
 使用jupyter记录C++笔记
 - https://notebooks.gesis.org/binder/
 - https://github.com/jupyter-xeus/xeus-cling
-
+- https://github.com/conda-forge/miniforge
 ```shell
 $ mamba install -c conda-forge xeus-cling
 ```
