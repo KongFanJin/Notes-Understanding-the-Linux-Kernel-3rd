@@ -2,6 +2,7 @@
 - https://notebooks.gesis.org/binder/
 - https://github.com/jupyter-xeus/xeus-cling
 - https://github.com/conda-forge/miniforge
+- https://zhuanlan.zhihu.com/p/623557144
 ```shell
 $ mamba install -c conda-forge xeus-cling
 ```
